@@ -10,7 +10,7 @@ const fakeUnsplash = async (term) => {
         },
         params: {
             query: term,
-            orientation: 'landscape',
+            orientation: 'portrait',
         },
     })
     return response.data.results;
