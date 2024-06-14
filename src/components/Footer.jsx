@@ -20,7 +20,7 @@ const Footer = () => {
             <SlSocialLinkedin size={'20px'} fill="#31304D" />
           </a>
         </div>
-        <span className="text-white tracking-wide">Developed by Tina Mazikian</span>
+        <span className="text-white tracking-wide">Developed by Tina Mazikian :D</span>
       </div>
     </footer>
   );
